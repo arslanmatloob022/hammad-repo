@@ -1,0 +1,100 @@
+{
+    "description": "FBA GURU AMAZON PACK",
+    "version": "1.0",
+    "key": "lhampmhmkbmccdgfkdbakgccfpphamdb",
+    "name": "FBA GURU Loader 1/2",
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "homepage_url": "https://fbaguru.net/amember/member",
+    "background": {
+        "scripts": [
+            "js/jquery-3.3.1.min.js",
+            "js/objectwatch.bundle.js",
+            "js/cookie_helpers.bundle.js",
+            "js/utils.bundle.js",
+            "js/data.bundle.js",
+            "js/background.bundle.js",
+            "js/bg_popup.bundle.js",
+            "js/bg.bundle.js"
+        ],
+        "persistent": true
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "contentScript.bundle.js"
+            ],
+            "run_at": "document_end",
+            "all_frames": false,
+            "matches": [
+                "https://fbaguru.net/amember/member*"
+            ]
+        },
+        {
+            "matches": [
+                "https://members.helium10.com/?accountId=*"
+            ],
+            "all_frames": true,
+            "js": [
+                "js/ht.bundle.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://keepa.com/*",
+                "https://amztoolshub.com/amember/content/p/id/50/"
+            ],
+            "all_frames": true,
+            "js": [
+                "js/keepsRedirect.bundle.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://app.scanunlimited.com/session/signin"
+            ],
+            "all_frames": true,
+            "js": [
+                "js/arrive.min.js",
+                "js/scanunlimited.bundle.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://login.junglescout.com/*"
+            ],
+            "all_frames": true,
+            "js": [
+                "js/arrive.min.js",
+                "js/junglescoutweb.bundle.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "storage",
+        "webRequest",
+        "webRequestBlocking",
+        "notifications",
+        "cookies",
+        "tabs",
+        "alarms",
+        "*://*/*",
+        "activeTab",
+        "webNavigation",
+        "<all_urls>",
+        "contextMenus",
+        "bookmarks",
+        "management",
+        "proxy",
+        "idle",
+        "http://*/*",
+        "https://*/*"
+    ],
+
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "minimum_chrome_version": "41",
+    "manifest_version": 2
+}

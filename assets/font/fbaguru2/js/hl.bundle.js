@@ -1,0 +1,1 @@
+(()=>{var e=document.querySelector("div.sc-khIimk");e.parentElement.removeChild(e)})();

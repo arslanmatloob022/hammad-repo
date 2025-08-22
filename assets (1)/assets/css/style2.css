@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+/* Opensans custom font */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+  background:#f5f5f5;  
+}
+.vme-section{
+  padding:20px;	
+  font:13px 'Open Sans', sans-serif; 
+}
+.vme-header{
+  background:#29b2e1;
+  border-radius:5px;
+  padding:10px 20px;
+  color:#fff;
+  font-size:18px;	 
+  margin-bottom:10px;	  
+}
+.vme-search .form-label{
+   white-space:nowrap;
+}
+.vme-panels{
+  padding:15px;
+  border-radius:5px;
+  box-shadow: 0 0 10px #eaeaea;
+  background:#fff;
+  border: 1px solid #ececec
+}
+.form-label{
+  font-size:13px;
+  color: #666;
+  font-weight: normal;
+  text-align:right;
+  padding-top:5px;
+}
+.mt-10{
+   margin-top:10px;
+}
+.mt-0{
+   margin-top:0;
+}
+.ml-5{
+   margin-left:5px;
+}
+.search-view{
+   margin-bottom:10px;
+}
+/*.search-view .form-control{
+   font-weight:600;
+}*/
+.search-view label{
+   display:block;
+   color:#999;
+   font-size:13px;
+   font-weight:normal;
+}
+.input-sm{
+	font-size:13px;
+}
+.border-top{
+	border-top: 2px solid #6bc1de;
+}
+.user-img{
+	width:100px;
+	height:100px;
+	display:inline-block;
+	overflow:hidden;		
+	border:1px solid #c5c5c5;
+}
+.section-title{
+	padding:0 10px;
+	font-size:16px;
+	font-weight:600;
+}
+.btn-upload{
+	background: #656363;
+	padding: 5px;
+	color: #fff !important;
+	border:0;
+	border-radius:0;
+	width:100px;
+	margin-top:-4px;
+}	
+.vme-search-btn {
+    background-color: #29b2e1;
+    border-color: #29b2e1;
+}
+.vme-search-btn:hover, .vme-search-btn:focus {
+	background-color: #33c6f9 !important;
+    border-color: #33c6f9 !important;
+}
+.btn-group-btn {
+    padding: 3px 10px !important;
+    text-align: center;
+}
+.btn-group-btn i  {
+	margin-right:0 !important;   
+	
+}
+
+
+
+
+.card.light-version .file-field input[type=text] {
+border-bottom: 1px solid #fff; }
+.card.light-version .file-field input[type=text]::-webkit-input-placeholder {
+color: #fff;
+font-weight: 300; }
+.card.light-version .file-field input[type=text]::-moz-placeholder {
+color: #fff;
+font-weight: 300; }
+.card.light-version .file-field input[type=text]:-ms-input-placeholder {
+color: #fff;
+font-weight: 300; }
+.card.light-version .file-field input[type=text]::placeholder {
+color: #fff;
+font-weight: 300; }
+.card.light-version .file-field input[type=text]:focus:not([readonly]) {
+-webkit-box-shadow: 0 1px 0 0 #fff;
+box-shadow: 0 1px 0 0 #fff; }

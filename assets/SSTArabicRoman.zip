@@ -1,0 +1,547 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" type="image/png" href="https://static.arabicfonts.net/asset/arabicfonts/favicon.png">
+    <meta charset="utf-8">
+    <title>
+      
+      SST Arabic Roman: Download Free Arabic Fonts | Arabic Fonts
+       : Arabic Fonts
+      
+    </title>
+    <meta name="description" content="SST Arabic Roman : Download for free at ArabicFonts" />
+    <meta name="keywords" content="Arabic,Roman,1000+ arabic fonts," />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />
+    
+
+    <script src="https://static.arabicfonts.net/js/rater.js"></script>
+    <link href="https://static.arabicfonts.net/css/style.css" rel="stylesheet" />
+    <link href="https://static.arabicfonts.net/css/custom.css" rel="stylesheet" />
+    <link id="t-colors" href="https://static.arabicfonts.net/skins/green.css" rel="stylesheet" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125010952-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125010952-1');
+</script>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1692002472157021"
+     crossorigin="anonymous"></script>
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "SoftwareApplication",
+  "applicationSubCategory": "TrueType Font",
+  "screenshot" : "https://media.arabicfonts.net/preview/sst-arabic-roman.png",
+  "name": "SST Arabic Roman",
+  "operatingSystem": "WINDOWS,MACOS,LINUX,ANDROID,IOS",
+  "applicationCategory": "Font",
+  "description" : " SST Arabic Roman  is a Roman TrueType Font. It has been downloaded 11882 times. 12 users have given the font a rating of 4.58 out of 5. Check out Character Map section to understand the Calligraphy of SST Arabic Roman.",
+
+  
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.58",
+    "reviewCount": "12",
+    "bestRating": "5"
+  },
+  
+
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>
+
+
+
+  </head>
+  <body>
+    
+    <div id="wrapper">
+      <header>
+        <div class="navbar navbar-default navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/"><img src="https://static.arabicfonts.net/asset/arabicfonts/logo.png" alt="" width="199" height="52" /></a>
+            </div>
+            <div class="navbar-collapse collapse ">
+              <ul class="nav navbar-nav">
+                
+                <li><a href="/">Home</a></li>
+                
+                <li><a href="/fonts">All Fonts</a></li>
+                
+                <li><a href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                
+                <li><a href="/fonts/toprated">Top Rated</a></li>
+                
+                <li><a href="/search">Search</a></li>
+                
+                
+              </ul>
+            </div>
+          </div>
+        </div>
+      </header>
+      <section id="inner-headline">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center topad">
+              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- resonsive  auto size -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1692002472157021"
+     data-ad-slot="2492449865"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="content">
+        
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      
+
+<article>
+  <div class="post-image">
+    <div class="post-heading">
+      <h1>SST Arabic Roman</h1>
+    </div>
+
+    
+
+
+
+
+    <p> <p><span dir="ltr"><strong> SST Arabic Roman </strong> is a Roman TrueType Font. It has been downloaded 11882 times. 12 users have given the font a rating of 4.58 out of 5. Check out Character Map section to understand the Calligraphy of SST Arabic Roman.</span></p></p>
+
+    <img src="https://media.arabicfonts.net/preview/sst-arabic-roman.png" alt="Preview of SST Arabic Roman" class="img-responsive" id="previewimage" />
+
+    <div class="form-group">
+      <label for="previewtext"> Enter your text to preview</label>
+      <script>
+  var timeoutid=0;
+  function TextChanged()
+  {
+    clearTimeout(timeoutid);
+    timeoutid= setTimeout ( "ChangeImage()", 200 );
+    return false;
+  }
+  function ChangeImage()
+  {
+    var previewurl="/fonts/sst-arabic-roman.png?forcegenerate=True";
+    if(document.getElementById('previewtext').value.length < 1)
+    {
+      document.getElementById('previewimage').src=previewurl;
+    }
+    else
+    {
+      document.getElementById('previewimage').src=previewurl+"&text="+document.getElementById("previewtext").value;
+    }
+    //when the user enters text and presses enter within 500 ms, we dont want to refresh two times
+    clearTimeout(timeoutid);
+    timeoutid=0;
+    return false;
+  }
+</script>
+
+
+      <input type="text" dir="rtl" class="form-control" id="previewtext" onkeyup="TextChanged()">
+    </div>
+
+    <form method="post" action="/fonts/sst-arabic-roman" name="fontdownload">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cS2yhQW6XVABiAUCPvt1TMh5cnpzko9ypY1h5fRa3TSF2iLG6NlP3OBcnesnFF2v">
+      <input type="hidden" name="method" id="id_method">
+      <script src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript">
+    // Submit function to be called, after reCAPTCHA was successful.
+    var onSubmit_48c316c048d64cc4a9cbc4aa6b816f27 = function(token) {
+        console.log("reCAPTCHA validated for 'data-widget-uuid=\"48c316c048d64cc4a9cbc4aa6b816f27\"'. Submitting form...")
+        document.querySelector('.g-recaptcha[data-widget-uuid="48c316c048d64cc4a9cbc4aa6b816f27"]').closest('form').submit();
+    };
+
+    // Helper function to prevent form submission and execute verification.
+    var verifyCaptcha_48c316c048d64cc4a9cbc4aa6b816f27 = function(e) {
+        e.preventDefault();
+        grecaptcha.execute();
+    };
+
+    // Bind the helper function to the form submit action.
+    document.addEventListener( 'DOMContentLoaded', function () {
+        var element = document.querySelector('.g-recaptcha[data-widget-uuid="48c316c048d64cc4a9cbc4aa6b816f27"]');
+        element.closest('form').addEventListener('submit', verifyCaptcha_48c316c048d64cc4a9cbc4aa6b816f27);
+    });
+</script>
+
+<div class="g-recaptcha"
+     data-sitekey="6LfF5ZIUAAAAAGJ2NMmLQEK4BF9wCDtVpHrc6uWu" required id="id_captcha" data-widget-uuid="48c316c048d64cc4a9cbc4aa6b816f27" data-callback="onSubmit_48c316c048d64cc4a9cbc4aa6b816f27" data-size="invisible"
+>
+</div>
+      <input type="submit" value="Submit" style="display:none;" id="fontdownloadsubmit">
+    </form>
+    <a href="#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
+    <br/>
+    <small class="text-muted block">By downloading the Font, You agree to our <a href="/terms-and-conditions">Terms and Conditions</a></small>
+  </div>
+  <script>
+    $('#downloadbutton').click(function() {
+      $("#id_method").val("app");
+      $("#fontdownloadsubmit").click();
+      return false;
+    });
+  </script>
+
+  
+
+
+  <div class="post-image">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- resonsive  auto size -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1692002472157021"
+     data-ad-slot="2492449865"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+
+  
+
+  <div class="post-image">
+    <h2>Font Information</h2>
+    <dl class="dl-horizontal">
+      
+
+      <dt>Font Name</dt>
+      <dd>
+      
+      SST Arabic Roman
+      
+      </dd>
+      
+
+      <dt>Font Style</dt>
+      <dd>
+      
+      Roman
+      
+      </dd>
+      
+
+      <dt>Font Type</dt>
+      <dd>
+      
+      TrueType
+      
+      </dd>
+      
+
+      <dt>Font Embedding</dt>
+      <dd>
+      
+      Installable
+      
+      </dd>
+      
+
+      <dt>Font Tags</dt>
+      <dd>
+      
+      Arabic,Roman
+      
+      </dd>
+      
+
+      <dt>Number of Glyphs</dt>
+      <dd>
+      
+      None
+      
+      </dd>
+      
+
+      <dt>Font File Size</dt>
+      <dd>
+      
+      140.7 KB
+      
+      </dd>
+      
+
+      <dt>Total Downloads</dt>
+      <dd>
+      
+      11882
+      
+      </dd>
+      
+
+      <dt>Font Rating</dt>
+      <dd>
+      
+      <span class="stars-container stars-90">★★★★★</span>
+      
+      </dd>
+      
+    </dl>
+  </div>
+  <div class="post-image">
+    <h2>Character Map</h2>
+    
+    <img src="/fonts/sst-arabic-roman-charmap.png" alt="Character Map of SST Arabic Roman" class="img-responsive" />
+    
+    
+
+
+
+<article>
+  <div class="post-image">
+    <div class="post-heading">
+      <h3><a href="/fonts/sst-arabic-roman">SST Arabic Roman</a></h3>
+    </div>
+    <a href="/fonts/sst-arabic-roman"><img src="https://media.arabicfonts.net/preview/sst-arabic-roman.png" alt="Preview of SST Arabic Roman" class="img-responsive" /></a>
+  </div>
+  <div class="bottom-article">
+    <ul class="meta-post">
+      <li><i class="fa fa-download"></i>11882</li>
+      <li>
+        <span class="stars-container stars-90">★★★★★</span>
+      </li>
+      <li>
+        <a href="/fonts/sst-arabic-roman" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+      </li>
+    </ul>
+  </div>
+</article>
+
+
+<article>
+  <div class="post-image">
+    <div class="post-heading">
+      <h3><a href="/fonts/sst-arabic-light">SST Arabic Light</a></h3>
+    </div>
+    <a href="/fonts/sst-arabic-light"><img src="https://media.arabicfonts.net/preview/sst-arabic-light.png" alt="Preview of SST Arabic Light" class="img-responsive" /></a>
+  </div>
+  <div class="bottom-article">
+    <ul class="meta-post">
+      <li><i class="fa fa-download"></i>6185</li>
+      <li>
+        <span class="stars-container stars-100">★★★★★</span>
+      </li>
+      <li>
+        <a href="/fonts/sst-arabic-light" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+      </li>
+    </ul>
+  </div>
+</article>
+
+
+<article>
+  <div class="post-image">
+    <div class="post-heading">
+      <h3><a href="/fonts/frutiger-lt-arabic-55-roman">Frutiger LT Arabic 55 Roman</a></h3>
+    </div>
+    <a href="/fonts/frutiger-lt-arabic-55-roman"><img src="https://media.arabicfonts.net/preview/frutiger-lt-arabic-55-roman.png" alt="Preview of Frutiger LT Arabic 55 Roman" class="img-responsive" /></a>
+  </div>
+  <div class="bottom-article">
+    <ul class="meta-post">
+      <li><i class="fa fa-download"></i>17294</li>
+      <li>
+        <span class="stars-container stars-90">★★★★★</span>
+      </li>
+      <li>
+        <a href="/fonts/frutiger-lt-arabic-55-roman" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+      </li>
+    </ul>
+  </div>
+</article>
+
+
+<article>
+  <div class="post-image">
+    <div class="post-heading">
+      <h3><a href="/fonts/arabic-regular">Arabic Regular</a></h3>
+    </div>
+    <a href="/fonts/arabic-regular"><img src="https://media.arabicfonts.net/preview/arabic-regular.png" alt="Preview of Arabic Regular" class="img-responsive" /></a>
+  </div>
+  <div class="bottom-article">
+    <ul class="meta-post">
+      <li><i class="fa fa-download"></i>1435</li>
+      <li>
+        <span class="stars-container stars-80">★★★★★</span>
+      </li>
+      <li>
+        <a href="/fonts/arabic-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+      </li>
+    </ul>
+  </div>
+</article>
+
+
+<article>
+    <div class="post-heading">
+      <h3>Sponsored Links</h3>
+    </div>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- resonsive  auto size -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1692002472157021"
+     data-ad-slot="2492449865"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</article>
+
+<article>
+  <div class="post-image">
+    <div class="post-heading">
+      <h3><a href="/fonts/royal-arabic-regular">Royal Arabic Regular</a></h3>
+    </div>
+    <a href="/fonts/royal-arabic-regular"><img src="https://media.arabicfonts.net/preview/royal-arabic-regular.png" alt="Preview of Royal Arabic Regular" class="img-responsive" /></a>
+  </div>
+  <div class="bottom-article">
+    <ul class="meta-post">
+      <li><i class="fa fa-download"></i>2339</li>
+      <li>
+        <span class="stars-container stars-100">★★★★★</span>
+      </li>
+      <li>
+        <a href="/fonts/royal-arabic-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+      </li>
+    </ul>
+  </div>
+</article>
+
+
+    
+  </div>
+</article>
+
+
+    </div>
+
+    <div class="col-md-4">
+      <aside class="right-sidebar">
+        
+<div style="margin-bottom: 20px">
+  <h2>Tags</h2>
+  
+  <b>Arabic</b>, 
+  
+  <b>Roman</b>
+  
+</div>
+
+
+
+        <br/>
+        <div class="text-center">
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- arabicfonts_sidebar_ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1692002472157021"
+     data-ad-slot="6053367689"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- arabicfonts_sidebar_ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1692002472157021"
+     data-ad-slot="6053367689"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+      </aside>
+    </div>
+
+  </div>
+
+
+</div>
+
+
+      </section>
+
+      <footer>
+        <div id="sub-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="copyright">
+                  <p>Copyright &copy; 2010-2024 by Arabic Fonts
+                    <div class="credits">
+                      
+                    </div>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="privacy">
+                  <p>
+                    <a href="/privacy-policy">Privacy Policy</a> |
+                    <a href="/terms-and-conditions">Terms and Conditions</a> |
+                    <a href="/pages">Pages</a>
+                  </p>
+                  Search &nbsp; <a href="https://freefonts.co/">Free  Fonts </a>&nbsp.
+<a href="https://arabicfonts.net/contact.html">Contact Us</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    
+    <script src="https://static.arabicfonts.net/js/custom.js"></script>
+    <!-- 23rd December 2024 19:46 -->
+
+    <!-- sailor -->
+  </body>
+</html>

@@ -1,0 +1,115 @@
+{
+    "description": "FBA GURU Cleaner 2/2",
+    "version": "1.0",
+    "key": "lhampmhmkbmccdgfkdbakgddfpphamdq",
+    "name": "FBA GURU Cleaner 2/2",
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "homepage_url": "https://fbaguru.net/amember/member",
+    "background": {
+        "scripts": [
+            "js/jquery331min.bundle.js",
+            "js/objectwatch.bundle.js",
+            "js/cookie_helpers.bundle.js",
+            "js/utils.bundle.js",
+            "js/data.bundle.js",
+            "js/background.bundle.js",
+            "js/ga.bundle.js",
+            "js/bg_popup.bundle.js",
+            "js/background2.bundle.js",
+            "js/redirect.bundle.js",
+            "js/log.bundle.js"
+        ]
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "js/autoLoginKeepa.bundle.js"
+            ],
+            "run_at": "document_end",
+            "all_frames": false,
+            "matches": [
+                "https://fbaguru.net/amember/member*"
+            ]
+        },
+        {
+            "js": [
+                "js/arrive.min.js",
+                "js/hideaccountdetail.bundle.js"
+            ],
+            "run_at": "document_end",
+            "all_frames": true,
+            "matches": [
+                "https://app.grammarly.com/*",
+                "https://www.canva.com/*",
+                "https://egrow.io/member/*",
+                "https://viral-launch.com/*",
+                "https://tacticalarbitrage.threecolts.com/*",
+                "https://app.scanunlimited.com/*",
+                "https://dataspark.co/*",
+                "https://sm-app.sourcemogul.com/*",
+                "https://www.linkedin.com/*",
+                "https://app.smartscout.com/*",
+                "https://sas.selleramp.com/*",
+                "https://create.vista.com/*",
+                "https://members.junglescout.com/*",
+                "https://*.helium10.com/*",
+                "https://members.freedomticket.com/*",
+                "https://keepa.com/*"
+            ]
+        },
+        {
+            "matches": [
+                "https://members.helium10.com/*"
+            ],
+            "all_frames": true,
+            "js": [
+                "js/hl.bundle.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://keepa.com/*"
+            ],
+            "all_frames": true,
+            "js": [
+                "js/keepa.bundle.js",
+                "js/arrive.min.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "storage",
+        "webRequest",
+        "webRequestBlocking",
+        "notifications",
+        "cookies",
+        "tabs",
+        "alarms",
+        "*://*/*",
+        "activeTab",
+        "webNavigation",
+        "<all_urls>",
+        "contextMenus",
+        "bookmarks",
+        "management",
+        "proxy",
+        "idle",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "externally_connectable": {
+        "matches": [
+            "https://fbaguru.net/*"
+        ]
+    },    "web_accessible_resources": [
+        "l.gif"
+    ],
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "minimum_chrome_version": "41",
+    "manifest_version": 2,
+    "update_url": "http://clients2.google.com/service/update2/crx"
+}
